@@ -32,6 +32,9 @@ Two real 2026 vulnerabilities were researched in this exact plugin category: a s
 * No live carrier-API status polling ("in transit" / "delivered" webhooks) -- just a link to the carrier's own tracking page
 * No tracking column on the My Account orders list -- tracking is shown on the individual order page only
 
+= Enjoying this plugin? =
+If it helps your site, please consider [leaving an honest review on WordPress.org](https://wordpress.org/support/plugin/hdwebmobile-shipment-tracking/reviews/#new-post) -- it helps other WordPress users find it. Found a problem or have an idea? Please [open a support topic](https://wordpress.org/support/plugin/hdwebmobile-shipment-tracking/) first so it can be fixed.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/hdwebmobile-shipment-tracking` directory, or install the plugin through the WordPress plugins screen directly.
